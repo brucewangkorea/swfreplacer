@@ -33,10 +33,10 @@ And then, this program will wait for your commands. If you see this command prom
 
 Currently this understands 4 simple commands.
 
-* txt : Replace a text (dynamic text).
-* img : Replace an image.
-* sprite : Replace a sprite (movie clip).
-* start : start conversion and save it to a result file.
+ * txt : Replace a text (dynamic text).
+ * img : Replace an image.
+ * sprite : Replace a sprite (movie clip).
+ * start : start conversion and save it to a result file.
 
 Except the 'start' command (which is the final command for the command line), you can enter all this commands multiple times you want.
 
@@ -113,7 +113,7 @@ Now this is the result..
 
 = So.. =
 
-This is nor commercial one. Please read the license (Apache 2.0). I am not responsible for any problems you have when you use my tool in your commercial activities. 
+This is not commercial one. Please read the license (Apache 2.0). I am not responsible for any problems you have when you use my tool in your commercial activities. 
 
 And I hope I can have participants who can improve this project together. You can also support me in any ways.
 

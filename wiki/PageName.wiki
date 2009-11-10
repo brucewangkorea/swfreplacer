@@ -108,7 +108,8 @@ start
 
 Then this program will show the new content of modified SWF file and it will be saved to a new SWF file which you gave to the *swfreplacer* program.
 
-
+Now this is the result..
+[http://brucewangkorea.googlegroups.com/web/a.swf?gda=zT0ECjgAAACU1SScV0-5gXUmLEWmXD3Q7Twi5XPUqmGDZFIiTrcAgQsV_c6CwoPSGKXvqhTip6IaNWB3A2L4HCtTMEZPaE7O&gsc=1OjqYQsAAADmiTccD1atSsbJuwVI0i6o]
 
 = So.. =
 

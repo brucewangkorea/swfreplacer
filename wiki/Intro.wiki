@@ -117,8 +117,6 @@ This is not commercial one. Please read the license (Apache 2.0). I am not respo
 
 And I hope I can have participants who can improve this project together. You can also support me in any ways.
 
-Actually my first code was written more than 3 years ago, and it was posted to CodeProject [http://www.codeproject.com/KB/files/replace_text_in_SWF_file.aspx] but it had only one function, replacing a text only. And this new improvements I made is not at all hard one. I mean, this tool maybe not so charming in these days. 
-
 If you are aiming for the PC browsers only, you don't need this tool at all. You can dynamically load movie clips, no problem. So this maybe old-fashioned. But I just hope this can be useful for somebody. 
 
 Cheers.
